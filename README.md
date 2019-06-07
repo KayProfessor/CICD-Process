@@ -1,1 +1,3 @@
-# CICD-Process
+# maven-project
+
+Simple Maven Project
